@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+*.pyc
+
+# Excel / Data (Arquivos de trabalho e modelos)
+
+*.zip
+TESTE_*.xlsx
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Icons
+icon.png
