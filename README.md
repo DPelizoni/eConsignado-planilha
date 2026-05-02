@@ -50,6 +50,3 @@ Para garantir que a lógica de negócio (especialmente a regra do CNPJ 0001 e fo
 ## 📄 Licença
 
 Este projeto é de uso privado para automação de controle de empréstimos consignados (eConsignado).
-
----
-Desenvolvido por: Dilter Pelizoni Neto - <dpelizoni@gmail.com>
