@@ -10,7 +10,7 @@ class InterfaceManager:
 
     def run(self):
         st.set_page_config(page_title="Processamento eConsignado", layout="wide")
-        st.title("🚀 Sistema de Processamento eConsignado")
+        st.title("Sistema de Processamento eConsignado")
         st.markdown("---")
 
         # Mudança para aceitar múltiplos arquivos
